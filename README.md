@@ -4,12 +4,15 @@
   My second professional GitHub account
  
 </h4>
- <a align="center" href="https://github.com/udaytamiljoes" target="_blank" rel="noopener noreferrer">
+<p align="center" >
+  <a href="https://github.com/udaytamiljoes" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub badge"
     />
   </a>
+</p>
+ 
 
 <p align="center">
   <a href="https://github.com/udaytamiljoes">
