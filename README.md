@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Arunpandi M</h1>
 <h4  align="center" >
   My second professional GitHub account
-  <a href="https://github.com/udaytamiljoes" target="_blank" rel="noopener noreferrer">
+ 
+</h4>
+ <a align="center" href="https://github.com/udaytamiljoes" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub badge"
     />
   </a>
-</h4>
 
 <p align="center">
   <a href="https://github.com/udaytamiljoes">
